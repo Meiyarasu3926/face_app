@@ -18,6 +18,7 @@ apt-get update && apt-get install -y \
     pkg-config \
     build-essential \
     python3-dev \
+    cmake \
     libatlas-base-dev \
     && rm -rf /var/lib/apt/lists/*
 
