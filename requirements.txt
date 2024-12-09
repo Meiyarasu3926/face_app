@@ -6,4 +6,4 @@ pandas
 cmake
 scikit-build
 dlib
-
+dlib==19.22.1+cpu
