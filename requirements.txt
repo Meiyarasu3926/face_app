@@ -1,0 +1,8 @@
+streamlit
+face-recognition
+Pillow
+numpy
+pandas
+cmake
+scikit-build
+dlib
