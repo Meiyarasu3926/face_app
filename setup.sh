@@ -11,7 +11,7 @@ enableCORS = false\n\
 \n\
 " > ~/.streamlit/config.toml
 
-# Update system packages and install required dependencies
+# Update system packages and install necessary dependencies
 apt-get update && apt-get install -y \
     cmake \
     pkg-config \
