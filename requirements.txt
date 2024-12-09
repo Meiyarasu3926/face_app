@@ -5,5 +5,5 @@ numpy
 pandas
 cmake
 scikit-build
-dlib==19.22.1 --find-links https://github.com/davisking/dlib/releases
+dlib
 
